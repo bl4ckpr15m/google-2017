@@ -4,3 +4,17 @@ Hash Code is a team-based programming competition organized by Google for studen
 February  was the month of google. We saw this event in our university and we wanted to try solve the problem.
 
 We ended up with this two different approachs, one builded in java while the second one, which is my favourite one, builded in python.
+
+## Compile and Run
+Easy peasy
+### Java
+```bash
+$ cd java/src
+$ javac Main.java -d ../out
+$ cd ../out && java Main
+```
+### Python
+```bash
+$ cd python
+$ python streaming.py
+```
